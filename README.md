@@ -13,6 +13,8 @@ d.atm is an Arduino prototype that uses a livedata ruby server connected via pc 
 
 
 <br>
+<br>
+<br>
 
 
 Configuration
@@ -31,7 +33,9 @@ Follow the link and create an API token. Copy this code.
 6. Type “ruby” followed by a space in your terminal window and drag the ethereum server from your text editor into the terminal. Execute the code by pressing the “return” key (“enter” on windows). 
 
 
-
+<br>
+<br>
+<br>
 
 
 Demo
@@ -41,16 +45,25 @@ Demo
 You are now ready to use d.atm. If there are any issues please contact me via charleslgdesigns@gmail.com
 
 
-
+<br>
+<br>
+<br>
 
 
 User interface
 
-To navigated through the menu, use the left (<) and right button (>). Press select to get live data from the following parameters, this is done through a http get request through the ruby server when you press the button. 
-
 https://www.tinkercad.com/things/5uQPr3lYk0Z-datm Interactive Tinkercad demo
 
 https://youtu.be/dLzMCHl_nEI - Tinkercad demo.
+
+
+<br>
+<br>
+<br>
+
+
+To navigated through the menu, use the left (<) and right button (>). Press select to get live data from the following parameters, this is done through a http get request through the ruby server when you press the button. 
+
 
  1. Block Number:
 Current height of the blockchain.
@@ -76,6 +89,9 @@ A rolling average of the gas price (in wei) for transactions to be confirmed wit
 A rolling average of the gas price (in wei) for transactions to be confirmed in 7 or more blocks.
 
 
+<br>
+<br>
+<br>
 
 
 Enjoy your time using d.atm. If you feel like there are improvements/variants that could be made in the code, please fork the github repository.
