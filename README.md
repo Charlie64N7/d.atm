@@ -3,6 +3,7 @@
 
 <b>Configuration</b>
 
+
 1. Once d.atm is fully assembled, establish connection from an available usb port on your pc into the d.atm port. This is located on the rear side of d.atm. 
 
 2. Unzip the contents from the github respository. Move the folder “OWL” to “documents/Arduino/Libraries”.
@@ -21,6 +22,7 @@ https://youtu.be/iYKEeWNK3mE - Link to a demo of the ruby server. You may notice
 You are now ready to use d.atm. If there are any issues please contact me via charleslgdesigns@gmail.com
 
 <b>User interface</b>
+
 
 To navigated through the menu, use the left (<) and right button (>). Press select to get live data from the following parameters, this is done through a http get request through the ruby server when you press the button. 
 
