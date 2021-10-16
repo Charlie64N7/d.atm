@@ -2,7 +2,7 @@
 'd.atm' is an IoT project that interacts with the Ethereum Mainnet.
 
 
-
+<br>
 
 
 Code Base
@@ -10,7 +10,7 @@ Code Base
 d.atm is an Arduino prototype that uses a livedata ruby server connected via pc to query blockchain information via a lcd interface.   
 
 
-
+<br>
 
 
 Configuration
