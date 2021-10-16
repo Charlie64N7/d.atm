@@ -24,22 +24,22 @@ User interface
 
 To navigated through the menu, use the left (<) and right button (>). Press select to get live data from the following parameters, this is done through a http get request through the ruby server when you press the button. 
 
-Block Number: 
+1. Block Number: 
 Current height of the blockchain.
 
-Hash:
+2. Hash:
 The hash of the latest confirmed block in the blockchain
 
-Unconfirmed Transactions:
+3. Unconfirmed Transactions:
 Number of unconfirmed transactions in memory pool (likely to be included in next block).
 
-High Gas Price:
+4. High Gas Price:
 A rolling average of the gas price (in wei) for transactions to be confirmed within 1 to 2 blocks.
 
-Mid Gas Price:
+5. Mid Gas Price:
 A rolling average of the gas price (in wei) for transactions to be confirmed within 3 to 6 blocks.
 
-Low Gas Price:
+6. Low Gas Price:
 A rolling average of the gas price (in wei) for transactions to be confirmed in 7 or more blocks.
 
 Enjoy your time using d.atm. If you feel like there are improvements that could be made in the code, please fork the github repository.
