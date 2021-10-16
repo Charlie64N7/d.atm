@@ -5,7 +5,7 @@
 
 <b>d.atm<b/> is an Arduino prototype that uses a livedata ruby server connected via pc to query blockchain information via a lcd interface.    
 
-<b>Configuration</b>
+<b>Configuration<b/>
 
 1. Once <b>d.atm<b/> is fully assembled, establish connection from an available usb port on your pc into the d.atm port. This is located on the rear side of <b>d.atm.<b/> 
 
