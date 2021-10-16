@@ -9,7 +9,7 @@
 
 1. Once <b>d.atm<b/> is fully assembled, establish connection from an available usb port on your pc into the d.atm port. This is located on the rear side of <b>d.atm.<b/> 
 
- 2. Unzip the contents from the github respository. Move the folder <a href="https://github.com/Charlie64N7/datm/OWL"OWL> to “documents/Arduino/Libraries”.
+ 2. Unzip the contents from the github respository. Move the folder [OWL] (https://github.com/Charlie64N7/OWL) to “documents/Arduino/Libraries”.
 
 3. Using the Arduino IDE, open “/datm/datm.ino” file. Then go to “Tools/Board” and make sure “Arduino Uno” is selected. In “Tools/Port” select the port that says “(Arduino Uno)”. Lastly, click “Upload” to run the code onto d.atm. Now, whenever plugged in, this .ino file will be running. 
 
