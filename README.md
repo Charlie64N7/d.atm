@@ -97,5 +97,7 @@ A rolling average of the gas price (in wei) for transactions to be confirmed in 
 Enjoy your time using d.atm. If you feel like there are improvements/variants that could be made in the code, please fork the github repository.
  
 
-
+<br>
+<br>
+<br>
 
