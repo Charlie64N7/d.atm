@@ -1,9 +1,17 @@
 # d.atm
 'd.atm' is an IoT project that interacts with the Ethereum Mainnet.
 
+
+
+
+
 Code Base
 
-d.atm is an Arduino prototype that uses a livedata ruby server connected via pc to query blockchain information via a lcd interface.    
+d.atm is an Arduino prototype that uses a livedata ruby server connected via pc to query blockchain information via a lcd interface.   
+
+
+
+
 
 Configuration
 
@@ -20,33 +28,55 @@ Follow the link and create an API token. Copy this code.
 
 6. Type “ruby” followed by a space in your terminal window and drag the ethereum server from your text editor into the terminal. Execute the code by pressing the “return” key (“enter” on windows). 
 
- https://youtu.be/iYKEeWNK3mE - Link to a demo of the ruby server. You may notice that the arduino code is different. This was because of quick testing purposes. The server requests were made autonomosly instead of through the d.atm interface. 
+
+
+
+
+Demo
+
+ https://youtu.be/iYKEeWNK3mE - Ruby Server demo. You may notice that the arduino code is different. This was because of quick testing purposes. The server requests were made autonomosly instead of through the d.atm interface. 
 
 You are now ready to use d.atm. If there are any issues please contact me via charleslgdesigns@gmail.com
+
+
+
+
 
 User interface
 
 To navigated through the menu, use the left (<) and right button (>). Press select to get live data from the following parameters, this is done through a http get request through the ruby server when you press the button. 
 
+https://www.tinkercad.com/things/5uQPr3lYk0Z-datm Interactive Tinkercad demo
+
+https://youtu.be/dLzMCHl_nEI - Tinkercad demo.
+
  1. Block Number:
 Current height of the blockchain.
+
 
  2. Hash:
 The hash of the latest confirmed block in the blockchain
 
+
 3. Unconfirmed Transactions:
 Number of unconfirmed transactions in memory pool (likely to be included in next block).
+
 
 4. High Gas Price:
 A rolling average of the gas price (in wei) for transactions to be confirmed within 1 to 2 blocks.
 
+
  5. Mid Gas Price:
 A rolling average of the gas price (in wei) for transactions to be confirmed within 3 to 6 blocks.
+
 
 6. Low Gas Price:
 A rolling average of the gas price (in wei) for transactions to be confirmed in 7 or more blocks.
 
-Enjoy your time using d.atm. If you feel like there are improvements that could be made in the code, please fork the github repository.
+
+
+
+Enjoy your time using d.atm. If you feel like there are improvements/variants that could be made in the code, please fork the github repository.
  
 
 
