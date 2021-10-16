@@ -3,7 +3,7 @@
 
 <b>Code Base<b/> 
 
-<b>d.atm</b> is an Arduino prototype that uses a livedata ruby server connected via pc to query blockchain information via a lcd interface.    
+<b>d.atm<b> is an Arduino prototype that uses a livedata ruby server connected via pc to query blockchain information via a lcd interface.    
 
 <b>Configuration</b>
 
