@@ -48,7 +48,4 @@ Enjoy your time using d.atm. If you feel like there are improvements that could 
  
 
 
-charleslgdesigns@gmail.com
-
-
 
